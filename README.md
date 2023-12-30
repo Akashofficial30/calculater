@@ -36,3 +36,11 @@ Select operation (1/2/3/4): 1
 Enter first number: 10
 Enter second number: 5
 Result: 15
+
+## Acknowledgments
+   *Thanks to the Python community for the language and inspiration.
+
+## Contact
+   If you have any questions or suggestions, feel free to reach out:
+
+   Email: [akash.0930.s@gmail.com]
